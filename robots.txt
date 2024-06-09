@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngleyealta.github.io/sitemap.html
+Sitemap: https://ngleyealta.github.io/app/sitemap.html
+Sitemap: https://ngleyealta.github.io/assets/sitemap.html
+Sitemap: https://ngleyealta.github.io/includes/sitemap.html
+Sitemap: https://ngleyealta.github.io/src/sitemap.html
